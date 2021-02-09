@@ -1,1 +1,1 @@
-In this section we'll learn what Maps are and create our own Map!
+In this section we'll go over the basic functions of the Map interface and walk through using them!
