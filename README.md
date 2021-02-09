@@ -1,1 +1,1 @@
-In this course we'll learn how to store key-value pairs by using a Map!
+In this section we'll learn what Maps are and create our own Map!
